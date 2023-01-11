@@ -6,6 +6,10 @@
 
 #IncludeRegexTransform: 
 
+C:/Users/kasia/Desktop/untitled4/cpoint.h
+list
+-
+
 C:/Users/kasia/Desktop/untitled4/main.cpp
 cstdlib
 -
@@ -14,6 +18,10 @@ ctime
 snake.h
 C:/Users/kasia/Desktop/untitled4/snake.h
 
+C:/Users/kasia/Desktop/untitled4/screen.h
+ncurses.h
+-
+
 C:/Users/kasia/Desktop/untitled4/snake.h
 list
 -
@@ -21,4 +29,12 @@ screen.h
 C:/Users/kasia/Desktop/untitled4/screen.h
 winsys.h
 C:/Users/kasia/Desktop/untitled4/winsys.h
+
+C:/Users/kasia/Desktop/untitled4/winsys.h
+cpoint.h
+C:/Users/kasia/Desktop/untitled4/cpoint.h
+list
+-
+string
+-
 
